@@ -17,6 +17,12 @@
 .text-light-gray {
   color: #727272;
 }
+.section-title {
+  font-size: 2.8rem;
+  color: #131313;
+  font-weight: 700;
+}
+
 
 header {
   background: rgba(255, 144, 14, 0.10);
@@ -44,10 +50,6 @@ nav li a {
   color: #424242;
 }
 
-.nav-title {
-  font-size: 3rem;
-  color: #131313;
-}
 
 /* banner styles */
 .banner-content {
